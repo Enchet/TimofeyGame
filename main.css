@@ -33,7 +33,6 @@ button {
     border-style: hidden;
     font-weight: italic;
     color: var(--black);
-    -webkit-text-size-adjust: 100%
 }
 
 h1 {
@@ -43,6 +42,10 @@ h1 {
 button:hover {
     background-color: var(--veryred);
     color: var(--white);
+}
+
+#name {
+    -webkit-text-size-adjust: 100%
 }
 
 #cover
