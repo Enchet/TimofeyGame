@@ -33,6 +33,7 @@ button {
     border-style: hidden;
     font-weight: italic;
     color: var(--black);
+    -webkit-text-size-adjust: 100%
 }
 
 h1 {
