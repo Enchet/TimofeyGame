@@ -32,6 +32,7 @@ button {
     background-color: var(--pink);
     border-style: hidden;
     font-weight: italic;
+    color: var(--black);
 }
 
 h1 {
